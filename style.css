@@ -90,7 +90,7 @@
      width: 100%;
      height: calc(70vh - 5rem);
      z-index: 1;
-     background: linear-gradient(to top, rgb(208, 23, 23), transparent);
+     background: linear-gradient(to top, #000, transparent);
      opacity: 9;
  }
 
